@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009407748129",
+    "firebase_url": "https://gerenciamento-de-consultas.firebaseio.com",
+    "project_id": "gerenciamento-de-consultas",
+    "storage_bucket": "gerenciamento-de-consultas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009407748129:android:a66dd85adbbe2742765b60",
+        "android_client_info": {
+          "package_name": "br.com.dlweb.conmed.conmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009407748129-bpugreiqaghjnmvue5nn9g74638vtj2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AZ3EB8lTNfzbVP533fgG6ChODnLLN3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009407748129-bpugreiqaghjnmvue5nn9g74638vtj2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
